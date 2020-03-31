@@ -9,27 +9,44 @@ body{
 /* ------------------------------------------navbar------------------------------------------------------*/
 
 #navbar{
-    height: 7%;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
 }
 
 .signin{
-    width: 15%;
-    float: right;
-    height: 100%;
+    display: flex;
+    flex-flow: row nowrap;
+    margin-right: 1.4%;
+    padding: 0.9% 1%;
 }
 
 .signin-span{
-    margin: 1% 1% 1% 1%;
-    font-size: xx-small;
-
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(56, 54, 54, 0.836);
+    line-height: 1.1rem;
+    font-size: small;
+    white-space: nowrap;
+    text-decoration: none;
 }
 
 .signin-btn{
-    margin: 1% 1% 1% 1%;
+    border-radius: 5px;
+    border: solid 1px black;
     color: white;
-    background-color: blue;
+    white-space: nowrap;
+    background-color: #0077c5;
+    padding: 2.5% 9% 2.5% 5%;
+    margin-left: 2%;
+}
+.signin-i{
+    margin-right: 9%;
 }
 
+.forg-usr-p{
+    text-decoration: none;
+    color: #0077c5;
+}
 /* ------------------------------------------main------------------------------------------------------*/
 #main{
     height: 80%;
