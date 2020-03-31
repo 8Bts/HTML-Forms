@@ -49,19 +49,26 @@ body{
 }
 /* ------------------------------------------main------------------------------------------------------*/
 #main{
-    height: 80%;
+    border: solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .signup{
-    border: solid 1px;
-    margin: 2% 30% 2% 30%;
+
 }
 
-.extra-links{
+.logo-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3% 1%;;
 }
+
 
 .intuit-logo{
-    width: 50%;
+    width: 40%;
 }
 
 .signup-form{
