@@ -118,17 +118,20 @@ input{
 }
 
 .password-div{
-    border: solid 1px;
+    display: flex;
+    flex-flow: row;
     position: relative;
+    width: 101%;
+    margin: 2% 0% 10% 0%;
 }
-
+#passw{
+    margin: 0%;
+}
 .open-lock{
-    /* position: absolute; */
-    /* margin: 1% 1% 1% 22.2%; */
+    position: absolute;
+    align-self: center;
+    margin-left: 19rem;
     color: rgba(128, 128, 128, 0.548);
-}
-label{
-    
 }
 
 .submit-btn{
@@ -146,15 +149,16 @@ label{
 
 .terms{
     font-size: smaller;
-    padding: 4% 2% 4% 2%;
-    line-height: 15px;
+    padding: 7% 11%;
+    line-height: 1.5;
+    color: gray;
 }
 
 .privacy{
     background-color: #ECEEF1;
-    padding: 4% 2% 4% 2%;
+    padding: 7% 2%;
     font-size: xx-small;
-    
+    color: gray;
 }
 
 .link{
@@ -169,6 +173,9 @@ label{
 
 .footer-div{
     text-align: center;
-    padding: 2% 2% 2% 2%;
+    color: rgb(97, 96, 96);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 2% 6%;
     line-height: 20px;
 }
