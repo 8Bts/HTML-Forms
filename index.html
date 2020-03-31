@@ -3,6 +3,7 @@
         <title>Intuit</title>
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="css-reset.css">
+        <link href="https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap" rel="stylesheet">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="https://kit.fontawesome.com/e2597287a1.js" crossorigin="anonymous"></script>
@@ -22,20 +23,26 @@
             </div>
         </nav>
         <main id="main">
-            <div class="signup">
+            <div class="main-div">
                 <div class="logo-div">
                     <img src="/assets/intuit-logo.png" alt="Intuit_Logo" class="intuit-logo">
                 </div>
                 <div class="signup-form">
-                    <h2>Create an Intuit Account</h2>
-                    <h4>One account for everything Intuit. <a href="">Learn More</a></h4>
+                    <div class="form-head-div">
+                        <h1 class="main-h1">Create an Intuit Account</h1>
+                        <br>
+                        <p>One account for everything Intuit, including Mint</p>
+                        <a  class="learn-more" href="">Learn More</a>     
+                    </div>
                     <form action="" class="form">
-                        <label for="">Email Address</label> <br>
-                        <input type="text" name="" id=""> <br>
-                        <label for="">Phone</label> <br>
-                        <input type="text" name="" id=""> <br>
-                        <label for="">Password</label> <br>
-                        <input type="text" name="" id=""> <br>
+                        <label for="email">Email Address</label> <br>
+                        <input type="text" name="" id="email"> <br>
+                        <label for="phone">Phone (Recommended)</label> <br>
+                        <input type="text" name="" id="phone">
+                        <span class="under-input">Standard call, messaging or data rates may apply.</span><br>
+                        <div class="gap-div"></div>
+                        <label for="passw">Password</label> <br>
+                        <input type="text" name="" id="passw"> <br>
                         <input type="submit" name="" id="" value="submit">
                     </form>
                     <div class="terms"> By clicking Create account, you agree to our
