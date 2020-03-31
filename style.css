@@ -49,16 +49,17 @@ body{
 }
 /* ------------------------------------------main------------------------------------------------------*/
 #main{
-    border: solid 1px;
+    /* border: solid 1px; */
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .main-div{
+    
     display: flex;
     flex-flow: column nowrap;
-    border: solid;
+    /* border: solid; */
     width: 380px;
 
 }
@@ -81,6 +82,7 @@ body{
     font-size: medium;
     color: #4c4c4c;
     border: solid 1px;
+    border-color: lightgrey;
     text-align: center;
     padding-top: 7%;
 }
@@ -95,7 +97,7 @@ body{
      color: #0077c5;
  }
 .form{
-    margin: 9% 6%;
+    margin: 4% 6%;
     text-align: start;
 }
 
@@ -108,26 +110,56 @@ input{
     margin-bottom: 2%;
 }
 .gap-div{
-    margin: 2rem
+    margin: 2.5rem
 }
 .under-input{
     font-size: x-small;
     
 }
+
+.password-div{
+    border: solid 1px;
+    position: relative;
+}
+
 .open-lock{
-    position: absolute;
-    margin: 1% 1% 1% 22.2%;
+    /* position: absolute; */
+    /* margin: 1% 1% 1% 22.2%; */
     color: rgba(128, 128, 128, 0.548);
 }
 label{
     
 }
+
+.submit-btn{
+    background-color: #0077C5;
+    margin: 0% 1% 2% 1%;
+    padding: 6%;
+    width: 100%;
+    border-color: #0077C5;
+    border: unset;
+    border-radius: 5px;
+    color: white;
+    font-size: medium;
+
+}
+
 .terms{
-    
+    font-size: smaller;
+    padding: 4% 2% 4% 2%;
+    line-height: 15px;
 }
 
 .privacy{
     background-color: #ECEEF1;
+    padding: 4% 2% 4% 2%;
+    font-size: xx-small;
+    
+}
+
+.link{
+    text-decoration: none;
+    color: #0077C5;
 }
 
 /* ------------------------------------------footer------------------------------------------------------*/
@@ -137,4 +169,6 @@ label{
 
 .footer-div{
     text-align: center;
+    padding: 2% 2% 2% 2%;
+    line-height: 20px;
 }
