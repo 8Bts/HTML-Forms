@@ -2,7 +2,7 @@
 
 This client side clone of https://accounts.intuit.com/signup.html
 
-![screenshot](https://github.com/8Bts/HTML-Forms/blob/sign-up/app_screenshot.png)
+![screenshot] (https://github.com/8Bts/HTML-Forms/blob/sign-up/app-screenshot.png)
 
 ## Built With
 
