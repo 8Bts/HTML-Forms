@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ECEEF1;
+}
+
+/* ------------------------------------------navbar------------------------------------------------------*/
+
+#navbar{
+    height: 7%;
+}
+
+.signin{
+    width: 15%;
+    float: right;
+    height: 100%;
+}
+
+.signin-span{
+    margin: 1% 1% 1% 1%;
+    font-size: xx-small;
+
+}
+
+.signin-btn{
+    margin: 1% 1% 1% 1%;
+    color: white;
+    background-color: blue;
+}
+
+/* ------------------------------------------main------------------------------------------------------*/
+#main{
+    height: 80%;
+}
+
+.signup{
+    border: solid 1px;
+    margin: 2% 30% 2% 30%;
+}
+
+.extra-links{
+}
+
+.intuit-logo{
+    width: 50%;
+}
+
+.signup-form{
+    background-color: white;
+    border: solid 1px;
+}
+
+.terms{
+    
+}
+
+.privacy{
+    background-color: #ECEEF1;
+}
+
+/* ------------------------------------------footer------------------------------------------------------*/
+
+#footer{
+}
+
+.footer-div{
+    text-align: center;
+}
