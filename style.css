@@ -108,12 +108,16 @@ input{
     margin-bottom: 2%;
 }
 .gap-div{
-
     margin: 2rem
 }
 .under-input{
     font-size: x-small;
     
+}
+.open-lock{
+    position: absolute;
+    margin: 1% 1% 1% 22.2%;
+    color: rgba(128, 128, 128, 0.548);
 }
 label{
     
