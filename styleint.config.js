@@ -1,8 +1,8 @@
 "use strict"
 
 module.exports = {
-  "extends": "stylelint-config-recommended",
-  "rules": {
+  extends: "stylelint-config-recommended",
+  rules: {
     "at-rule-empty-line-before": [ "always", {
       except: [
         "blockless-after-same-name-blockless",
