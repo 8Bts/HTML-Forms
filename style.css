@@ -39,6 +39,9 @@ body{
     padding: 2.5% 9% 2.5% 5%;
     margin-left: 2%;
 }
+.signin-btn:hover{
+    background-color: #1e83c7;
+}
 .signin-i{
     margin-right: 9%;
 }
@@ -182,6 +185,9 @@ input{
     font-size: medium;
 
 }
+.submit-btn:hover{
+    background-color: #1e83c7;
+}
 
 .terms{
     font-size: smaller;
@@ -200,6 +206,9 @@ input{
 .link{
     text-decoration: none;
     color: #0077C5;
+}
+.link:hover{
+    color: #6baad4;
 }
 
 /* ------------------------------------------footer------------------------------------------------------*/
