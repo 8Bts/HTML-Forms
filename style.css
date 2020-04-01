@@ -6,8 +6,7 @@ body {
   background-color: #eceef1;
 }
 
-/* 
------------------------------------------navbar------------------------------------------------------ 
+/*-----------------------------------------navbar------------------------------------------------------ 
 */
 #navbar {
   display: flex;
@@ -54,8 +53,7 @@ body {
   color: #0077c5;
 }
 
-/*
- ------------------------------------------main------------------------------------------------------
+/* ------------------------------------------main------------------------------------------------------
 */
 #main {
   display: flex;
@@ -111,7 +109,7 @@ body {
   margin: 2px 2px 2px 2px;
   font-size: large;
   color: grey;
-  font-family: "AvenirNext",Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "AvenirNext", "Avenir", "Helvetica Neue", Helvetica, Arial,sans-serif;
 }
 
 .signup-form {
@@ -154,7 +152,7 @@ input {
 }
 
 .gap-div {
-  margin: 2.5rem
+  margin: 2.5rem;
 }
 
 .under-input {
@@ -219,8 +217,7 @@ input {
   color: #6baad4;
 }
 
-/*
- ------------------------------------------footer------------------------------------------------------
+/* ------------------------------------------footer------------------------------------------------------
 */
 
 .footer-div {
