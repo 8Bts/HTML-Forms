@@ -1,8 +1,8 @@
 # Project Name
 
-This client side clone of https://youtube.com
+This client side clone of https://accounts.intuit.com/signup.html
 
-![screenshot](https://github.com/theshauryasingh/youtube-clone/blob/feature-2/app_screenshot.png)
+![screenshot](https://github.com/8Bts/HTML-Forms/blob/sign-up/app-screenshot.png)
 
 ## Built With
 
@@ -13,38 +13,23 @@ This client side clone of https://youtube.com
 
 ## Live Demo
 
-https://rawcdn.githack.com/theshauryasingh/youtube-clone/eb35733739884a6ba2ac485384a0ba632d98cd08/index.html
-
-
-## Getting Started
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+https://rawcdn.githack.com/8Bts/HTML-Forms/10d69247ac3c661372712d4b87da60256ff85186/index.html
 
 ## Authors
 
 👤 **Shaurya Singh**
 
-- Github: https://github.com/theshauryasingh
-- Twitter: https://twitter.com/theshauryasingh
-- Linkedin: https://www.linkedin.com/in/shaurya-singh-23291a101/
+- Github:   https://github.com/theshauryasingh
+- Twitter:  https://twitter.com/theshauryasingh
+- Linkedin: https://www.linkedin.com/in/theshauryasingh
+- Email:    shauryasingh96@gmail.com
 
 👤 **Rashid Mammadli**
 
-- Github: https://github.com/8Bts
-- Twitter: https://twitter.com/Rasheed49705929
+- Github:   https://github.com/8Bts
+- Twitter:  https://twitter.com/Rasheed49705929
 - Linkedin: https://www.linkedin.com/in/rashid-mammadli-62b9b1171/
+- Email:    mcmizze@yahoo.com
 
 ## 🤝 Contributing
 
