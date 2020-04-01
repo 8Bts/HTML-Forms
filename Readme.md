@@ -13,7 +13,7 @@ This client side clone of https://accounts.intuit.com/signup.html
 
 ## Live Demo
 
-https://rawcdn.githack.com/8Bts/HTML-Forms/227736437036496bc38d90f09a4ff17e559651fc/index.html
+https://rawcdn.githack.com/8Bts/HTML-Forms/10d69247ac3c661372712d4b87da60256ff85186/index.html
 
 ## Authors
 
